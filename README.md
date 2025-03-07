@@ -10,10 +10,6 @@ Hier findest du eine Sammlung nützlicher Bash-Skripte für verschiedene Linux-A
 
 Jedes Skript enthält eine kurze Anleitung zur Nutzung. Schau dich um und mach dein Linux-Leben einfacher!
 
-## Lizenz
-
-Dieses Projekt steht unter der MIT-Lizenz. Siehe [LICENSE](LICENSE) für weitere Informationen.  
-
 ---
 
 # Welcome to my Linux Script Repository
@@ -28,9 +24,7 @@ Here you will find a collection of useful Bash scripts for various Linux tasks. 
 
 Each script includes a short guide on how to use it. Take a look around and simplify your Linux experience!
 
-## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for more details.  
 
 
 
