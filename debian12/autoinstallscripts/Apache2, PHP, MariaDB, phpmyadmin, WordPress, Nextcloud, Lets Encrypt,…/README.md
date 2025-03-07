@@ -1,5 +1,5 @@
 # Automatisiertes Setup-Skript für Debian 12
-##Apache2, PHP, MariaDB, phpmyadmin, WordPress, Nextcloud, Lets Encrypt,…
+## Apache2, PHP, MariaDB, phpmyadmin, WordPress, Nextcloud, Lets Encrypt,…
 
 Dieses Bash-Skript installiert und konfiguriert eine vollständige LAMP-Stack-Umgebung (Apache, MariaDB, PHP) auf einem Debian 12-Server. Es installiert außerdem phpMyAdmin, WordPress und Nextcloud, richtet SSL-Zertifikate mit Let's Encrypt ein und erstellt automatisierte Cronjobs für Updates und Zertifikatserneuerung.
 
