@@ -37,13 +37,13 @@ Automatische Einrichtung von Cronjobs für Systemupdates und SSL-Zertifikatserne
 
 1. Lade das Skript herunter:
    ```bash
-   wget https://github.com/dein-repo/setup-script.sh
-   chmod +x setup-script.sh
+   wget https://github.com/kanuracer/linuxscripts/tree/main/debian12/autoinstallscripts/webstuff/autoinstall_de.sh
+   chmod +x autoinstall_de.sh
    ```
 
 2. Führe das Skript als Root aus:
    ```bash
-   sudo ./setup-script.sh
+   sudo ./autoinstall_de.sh
    ```
 
 3. Folge den Anweisungen zur Eingabe von:
@@ -104,13 +104,13 @@ Automatically sets up cron jobs for system updates and SSL certificate renewal.
 
 1. Download the script:
    ```bash
-   wget https://github.com/your-repo/setup-script.sh
-   chmod +x setup-script.sh
+   wget https://github.com/kanuracer/linuxscripts/tree/main/debian12/autoinstallscripts/webstuff/autoinstall_en.sh
+   chmod +x autoinstall_en.sh
    ```
 
 2. Run the script as root:
    ```bash
-   sudo ./setup-script.sh
+   sudo ./autoinstall_en.sh
    ```
 
 3. Follow the prompts to enter:
