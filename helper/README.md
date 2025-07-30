@@ -1,1 +1,1 @@
-# Autostart für Teamspeak3 Server
+# some helpers
